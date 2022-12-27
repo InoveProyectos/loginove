@@ -1,0 +1,3 @@
+[submodule "log-viewer"]
+	path = log-viewer
+	url = https://github.com/hernancontigiani/log-viewer
